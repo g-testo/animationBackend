@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "SpongeBob SquarePants",
+        "showName": "spoungeBob",
+        "imageUrl": "https://en.wikipedia.org/wiki/SpongeBob_SquarePants_(character)#/media/File:SpongeBob_SquarePants_character.svg"
+    },
+    {
+        "id": 2,
+        "name": "Patrick Star",
+        "showName": "spoungeBob",
+        "imageUrl": "https://en.wikipedia.org/wiki/Patrick_Star#/media/File:Patrick_Star.svg"
+    },
+    {
+        "id": 3,
+        "name": "Squidward Tentacles",
+        "showName": "spoungeBob",
+        "imageUrl": "https://en.wikipedia.org/wiki/Squidward_Tentacles#/media/File:Squidward_Tentacles_(fair_use).svg"
+    },
+    {
+        "id": 4,
+        "name": "Mr. Krabs",
+        "showName": "spoungeBob",
+        "imageUrl": "https://en.wikipedia.org/wiki/Mr._Krabs#/media/File:Mr._Krabs.svg"
+    },
+    {
+        "id": 5,
+        "name": "Sandy Cheeks",
+        "showName": "spoungeBob",
+        "imageUrl": "https://en.wikipedia.org/wiki/Sandy_Cheeks#/media/File:Sandy_Cheeks.svg"
+    },
+    {
+        "id": 6,
+        "name": "Plankton",
+        "showName": "spoungeBob",
+        "imageUrl": "https://en.wikipedia.org/wiki/Plankton_and_Karen#/media/File:Plankton_and_Karen.svg"
+    },
+    {
+        "id": 7,
+        "name": "Gary the Snail",
+        "showName": "spoungeBob",
+        "imageUrl": "https://spongebob.fandom.com/wiki/Gary_the_Snail?file=Gary+looking+up+stock+art.png"
+    },
+    {
+        "id": 8,
+        "name": "Peter Parker",
+        "showName": "spiderman",
+        "imageUrl": "https://en.wikipedia.org/wiki/Spider-Man#/media/File:Web_of_Spider-Man_Vol_1_129-1.png"
+    },
+    {
+        "id": 9,
+        "name": "Mary Jane Watson",
+        "showName": "spiderman",
+        "imageUrl": "https://en.wikipedia.org/wiki/Mary_Jane_Watson#/media/File:Mary_Jane_Watson.png"
+    },
+    {
+        "id": 10,
+        "name": "Norman Osborn",
+        "showName": "spiderman",
+        "imageUrl": "https://en.wikipedia.org/wiki/Green_Goblin#/media/File:Green_Goblin_Comic_Art_by_Luke_Ross.webp"
+    },
+    {
+        "id": 11,
+        "name": "Doctor Octopus",
+        "showName": "spiderman",
+        "imageUrl": "https://en.wikipedia.org/wiki/Doctor_Octopus#/media/File:Dr._Octopus_Marvel.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Venom",
+        "showName": "spiderman",
+        "imageUrl": "https://en.wikipedia.org/wiki/Venom_(character)#/media/File:Web_of_Venom.png"
+    },
+    {
+        "id": 13,
+        "name": "J. Jonah Jameson",
+        "showName": "spiderman",
+        "imageUrl": "https://en.wikipedia.org/wiki/J._Jonah_Jameson#/media/File:J._Jonah_Jameson.png"
+    }
+]
