@@ -1,3 +1,4 @@
+Deployed: https://animation-backend.onrender.com/
 
 # Simple Backend API
 
