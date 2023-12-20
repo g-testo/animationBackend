@@ -21,13 +21,13 @@
         "id": 4,
         "name": "Mr. Krabs",
         "showName": "spoungeBob",
-        "imageUrl": "https://en.wikipedia.org/wiki/Mr._Krabs#/media/File:Mr._Krabs.svg"
+        "imageUrl": "https://static.wikia.nocookie.net/spongebob/images/7/7b/Krabs_artwork.png/revision/latest/scale-to-width-down/700?cb=20220807045807"
     },
     {
         "id": 5,
         "name": "Sandy Cheeks",
         "showName": "spoungeBob",
-        "imageUrl": "https://en.wikipedia.org/wiki/Sandy_Cheeks#/media/File:Sandy_Cheeks.svg"
+        "imageUrl": "https://static.wikia.nocookie.net/spongebob/images/8/84/Sandy_stock_art.png/revision/latest?cb=20200407131514"
     },
     {
         "id": 6,
@@ -39,7 +39,7 @@
         "id": 7,
         "name": "Gary the Snail",
         "showName": "spoungeBob",
-        "imageUrl": "https://spongebob.fandom.com/wiki/Gary_the_Snail?file=Gary+looking+up+stock+art.png"
+        "imageUrl": "https://static.wikia.nocookie.net/spongebob/images/9/9e/Gary_looking_up_stock_art.png/revision/latest?cb=20181227162221"
     },
     {
         "id": 8,
@@ -51,19 +51,19 @@
         "id": 9,
         "name": "Mary Jane Watson",
         "showName": "spiderman",
-        "imageUrl": "https://en.wikipedia.org/wiki/Mary_Jane_Watson#/media/File:Mary_Jane_Watson.png"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/68/Mary_Jane_Watson_%28circa_2007%29.png"
     },
     {
         "id": 10,
         "name": "Norman Osborn",
         "showName": "spiderman",
-        "imageUrl": "https://en.wikipedia.org/wiki/Green_Goblin#/media/File:Green_Goblin_Comic_Art_by_Luke_Ross.webp"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Norman_Osborn.jpg/220px-Norman_Osborn.jpg"
     },
     {
         "id": 11,
         "name": "Doctor Octopus",
         "showName": "spiderman",
-        "imageUrl": "https://en.wikipedia.org/wiki/Doctor_Octopus#/media/File:Dr._Octopus_Marvel.jpg"
+        "imageUrl": "https://static.wikia.nocookie.net/marvelanimated/images/3/37/Doctor_Octopus.jpg/revision/latest?cb=20170926005257"
     },
     {
         "id": 12,
@@ -75,6 +75,6 @@
         "id": 13,
         "name": "J. Jonah Jameson",
         "showName": "spiderman",
-        "imageUrl": "https://en.wikipedia.org/wiki/J._Jonah_Jameson#/media/File:J._Jonah_Jameson.png"
+        "imageUrl": "https://static.wikia.nocookie.net/marveldatabase/images/9/96/John_Jonah_Jameson_%28Earth-616%29_from_Marvel_Knights_Spider-Man_Vol_1_4_001.jpg/revision/latest?cb=20161214062419"
     }
 ]
