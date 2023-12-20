@@ -45,36 +45,36 @@
         "id": 8,
         "name": "Peter Parker",
         "showName": "spiderman",
-        "imageUrl": "https://cdn.pixabay.com/photo/2023/02/24/07/40/spiderman-7810368_640.png"
+        "imageUrl": "/images/spiderman.png"
     },
     {
         "id": 9,
         "name": "Mary Jane Watson",
         "showName": "spiderman",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/68/Mary_Jane_Watson_%28circa_2007%29.png"
+        "imageUrl": "/images/mary_jane.png"
     },
     {
         "id": 10,
         "name": "Norman Osborn",
         "showName": "spiderman",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Norman_Osborn.jpg/220px-Norman_Osborn.jpg"
+        "imageUrl": "/images/green_goblin.png"
     },
     {
         "id": 11,
         "name": "Doctor Octopus",
         "showName": "spiderman",
-        "imageUrl": "https://static.wikia.nocookie.net/marvelanimated/images/3/37/Doctor_Octopus.jpg/revision/latest?cb=20170926005257"
+        "imageUrl": "/images/doctor_octopus.png"
     },
     {
         "id": 12,
         "name": "Venom",
         "showName": "spiderman",
-        "imageUrl": "https://static.tvtropes.org/pmwiki/pub/images/ezgif_2_1201c0ca76.jpg"
+        "imageUrl": "/images/venom.png"
     },
     {
         "id": 13,
         "name": "J. Jonah Jameson",
         "showName": "spiderman",
-        "imageUrl": "https://static.wikia.nocookie.net/marveldatabase/images/9/96/John_Jonah_Jameson_%28Earth-616%29_from_Marvel_Knights_Spider-Man_Vol_1_4_001.jpg/revision/latest?cb=20161214062419"
+        "imageUrl": "/images/jonah_jameson.png"
     }
 ]
