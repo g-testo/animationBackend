@@ -3,43 +3,43 @@
         "id": 1,
         "name": "SpongeBob SquarePants",
         "showName": "spongebob",
-        "imageUrl": "https://static.wikia.nocookie.net/spongebob/images/d/d7/SpongeBob_stock_art.png/revision/latest?cb=20190921125147"
+        "imageUrl": "/images/sponge_bob.png"
     },
     {
         "id": 2,
         "name": "Patrick Star",
         "showName": "spongebob",
-        "imageUrl": "https://static.wikia.nocookie.net/spongebob/images/5/5d/Patrick_stock_art.png/revision/latest?cb=20210812083708"
+        "imageUrl": "/images/patrick_star.png"
     },
     {
         "id": 3,
         "name": "Squidward Tentacles",
         "showName": "spongebob",
-        "imageUrl": "https://static.wikia.nocookie.net/spongebob/images/0/05/Squidward_stock_art.png/revision/latest?cb=20190921125123"
+        "imageUrl": "/images/squidward.png"
     },
     {
         "id": 4,
         "name": "Mr. Krabs",
         "showName": "spongebob",
-        "imageUrl": "https://static.wikia.nocookie.net/spongebob/images/7/7b/Krabs_artwork.png/revision/latest/scale-to-width-down/700?cb=20220807045807"
+        "imageUrl": "/images/mr_krab.png"
     },
     {
         "id": 5,
         "name": "Sandy Cheeks",
         "showName": "spongebob",
-        "imageUrl": "https://static.wikia.nocookie.net/spongebob/images/8/84/Sandy_stock_art.png/revision/latest?cb=20200407131514"
+        "imageUrl": "/images/sandy_cheeks.png"
     },
     {
         "id": 6,
         "name": "Plankton",
         "showName": "spongebob",
-        "imageUrl": "https://static.wikia.nocookie.net/spongebob/images/7/77/Plankton_stock_art.png/revision/latest?cb=20210916065141"
+        "imageUrl": "/images/plankton.png"
     },
     {
         "id": 7,
         "name": "Gary the Snail",
         "showName": "spongebob",
-        "imageUrl": "https://static.wikia.nocookie.net/spongebob/images/9/9e/Gary_looking_up_stock_art.png/revision/latest?cb=20181227162221"
+        "imageUrl": "/images/gary.png"
     },
     {
         "id": 8,

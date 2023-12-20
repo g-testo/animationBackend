@@ -1,12 +1,15 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
+const path = require("path");
 
 app.use(cors("*"));
 
 app.use(express.json()); // for parsing application/json
 
 const port = 8080;
+
+app.use("/images", express.static(path.join(__dirname, "assets/images")));
 
 const characters = require("./data.json");
 
